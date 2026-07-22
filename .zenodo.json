@@ -1,0 +1,23 @@
+{
+  "title": "Q10Net: In Situ Soil Respiration Q10 Dataset and Neural Network Analysis Code for the Tibetan Plateau",
+  "description": "This archive contains an in situ soil respiration Q10 dataset compiled for the Tibetan Plateau and the neural network code used to analyze its controlling factors and predict its spatiotemporal dynamics under future climate scenarios. The archive supports the study \"Compound Effects of Warming and Wetting Enhance Soil Respiration on the Earth's Third Pole.\"",
+  "creators": [
+    {
+      "name": "Shen, Tongqing",
+      "affiliation": "Hohai University",
+      "orcid": "0000-0003-4757-8398"
+    }
+  ],
+  "keywords": [
+    "soil respiration",
+    "Q10",
+    "temperature sensitivity",
+    "Tibetan Plateau",
+    "neural network",
+    "climate warming",
+    "precipitation",
+    "research dataset",
+    "analysis code"
+  ],
+  "access_right": "open"
+}
