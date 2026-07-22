@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the archived Zenodo release."
+title: "Q10Net: In Situ Soil Respiration Q10 Dataset and Neural Network Analysis Code for the Tibetan Plateau"
+version: "1.1"
+type: software
+authors:
+  - family-names: "Shen"
+    given-names: "Tongqing"
+    affiliation: "Hohai University"
+    orcid: "https://orcid.org/0000-0003-4757-8398"
+abstract: "This repository contains an in situ soil respiration Q10 dataset compiled for the Tibetan Plateau and neural network code for analyzing its controlling factors and predicting its spatiotemporal dynamics under future climate scenarios."
+repository-code: "https://github.com/TongqingShen/Q10Net"
+keywords:
+  - soil respiration
+  - Q10
+  - temperature sensitivity
+  - Tibetan Plateau
+  - neural network
+  - research dataset
+  - analysis code
